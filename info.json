@@ -1,0 +1,12 @@
+{
+  "name": "plant-test",
+  "version": "0.0.1",
+  "title": "plant-test",
+  "author": "xkyouchoux",
+  "dependencies": [
+    "base >= 2.0.0",
+    "space-age"
+  ],
+  "space_travel_reuired": true,
+  "factorio_version": "2.0"
+}
