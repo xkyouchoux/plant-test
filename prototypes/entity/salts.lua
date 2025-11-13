@@ -31,7 +31,7 @@ data:extend({
         order = "salts", -- can be what ever
         impact_category = "tree", -- can be what ever
         pictures = { -- can add more for more variation
-            {size = 64, filename = "__base__/graphics/icons/sulfur.png", scale = 1.0, mipmap_count = 4} 
+            {size = 64, filename = "__base__/graphics/icons/sulfur.png", scale = 0.5, mipmap_count = 4} 
         },
         agricultural_tower_tint =
         {
